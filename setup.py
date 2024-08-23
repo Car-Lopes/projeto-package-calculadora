@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="calculadora",
+    name="calc_simple_calculation",
     version="0.0.1",
     author="Carlos_Lopes",
     author_email="car.l1991@yahoo.com.br",
