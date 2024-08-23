@@ -14,13 +14,13 @@ The package calculadora is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install calculadora
+pip install calc_simple_calculation
 ```
 
 ## Usage
 
 ```python
-from calculadora import operacao
+from calc_simple_calculation import operacao
 operacao.operacao()
 ```
 
