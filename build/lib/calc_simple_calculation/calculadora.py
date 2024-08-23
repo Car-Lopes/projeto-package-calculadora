@@ -1,3 +1,4 @@
+import operacao 
 import calculo
 
 repetir = 1

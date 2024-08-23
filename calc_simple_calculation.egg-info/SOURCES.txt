@@ -1,0 +1,10 @@
+README.md
+setup.py
+calc_simple_calculation/__init__.py
+calc_simple_calculation/calculadora.py
+calc_simple_calculation/calculo.py
+calc_simple_calculation/operacao.py
+calc_simple_calculation.egg-info/PKG-INFO
+calc_simple_calculation.egg-info/SOURCES.txt
+calc_simple_calculation.egg-info/dependency_links.txt
+calc_simple_calculation.egg-info/top_level.txt
